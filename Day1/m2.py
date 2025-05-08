@@ -7,5 +7,4 @@ def check(num):
 
 num = int(input("Enter a number"))
 result = check(num)
-print(result
-)
+print(result)
